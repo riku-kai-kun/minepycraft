@@ -20,4 +20,4 @@
 #ソースコード
 #https://github.com/riku-kai-kun/minepycraft
 #リリース
-#https://github.com/riku-kai-kun/minepycraft/tags
+#https://github.com/riku-kai-kun/minepycraft/releases
