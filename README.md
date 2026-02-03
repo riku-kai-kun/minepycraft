@@ -17,5 +17,7 @@
 #中身は後で付け足します
 
 #github
+#ソースコード
 #https://github.com/riku-kai-kun/minepycraft
-
+#リリース
+#https://github.com/riku-kai-kun/minepycraft/tags
