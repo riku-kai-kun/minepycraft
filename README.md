@@ -1,0 +1,2 @@
+# minepycraft
+minecraftをpythonを使ってAIに作らせた
