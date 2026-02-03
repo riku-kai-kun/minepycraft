@@ -17,5 +17,5 @@
 #中身は後で付け足します
 
 #github
-#まだありません
+#https://github.com/riku-kai-kun/minepycraft
 
