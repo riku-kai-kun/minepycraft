@@ -1,6 +1,6 @@
-#minepycraft
+#minepAIycraft
 
-#minepycraftとは、minecraftをpythonで再現しようという試みの一環です
+#minepAIycraftとは、minecraftをpythonで再現しようという試みの一環です
 #作成はAIと共同で行います
 #なので、AIの機能テストという目的もあります
 
