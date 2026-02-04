@@ -11,13 +11,13 @@ from OpenGL.GLU import *
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 SKY_COLOR = (0.5, 0.8, 1.0, 1)
-CAPTION = "Minepycraft"
+CAPTION = "MinepAIycraft"
 GROUND_SIZE = 20
 VIEW_DISTANCE = 14
 MAX_REACH = 6
 WORLD_MIN_Y = -4
 WORLD_MAX_Y = 8
-LOG_PATH = "minepycraft.log"
+LOG_PATH = "minepAIycraft.log"
 
 # --- ブロックの定義 ---
 VERTICES = ((0.5, -0.5, -0.5), (0.5, 0.5, -0.5), (-0.5, 0.5, -0.5), (-0.5, -0.5, -0.5), (0.5, -0.5, 0.5), (0.5, 0.5, 0.5), (-0.5, -0.5, 0.5), (-0.5, 0.5, 0.5))
