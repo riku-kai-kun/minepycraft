@@ -18,6 +18,6 @@
 
 #github
 #ソースコード
-#https://github.com/riku-kai-kun/minepycraft
+#https://github.com/riku-kai-kun/minepAIycraft
 #リリース
-#https://github.com/riku-kai-kun/minepycraft/releases
+#https://github.com/riku-kai-kun/minepAIycraft/releases
